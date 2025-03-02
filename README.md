@@ -12,4 +12,4 @@ ___
 
 ### February/2025
 * [Inteligencia Artificial - I2AI](https://github.com/guilhermeG23/personal_library/blob/main/2025/February/Inteligencia_Artificial.pdf)
-
+* [A psicologia financeira - Morgan Housel](https://www.amazon.com.br/psicologia-financeira-atemporais-gan%C3%A2ncia-felicidade-ebook/dp/B08WBXHFBL)
